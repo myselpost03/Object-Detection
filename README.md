@@ -17,6 +17,3 @@ The purpose of this repository is to create an object detection app via the COCO
 2. Install NPM packages: `yarn`.
 3. Run the project: `yarn start`.
 
-## Author
-
-Muhammad Anser Naseer (muhammadin87@gmail.com)
